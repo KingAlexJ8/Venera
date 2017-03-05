@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Venera:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spring-security-exam-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Venera:war exploded" />
+    </root>
+  </artifact>
+</component>
